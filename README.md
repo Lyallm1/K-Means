@@ -1,3 +1,4 @@
-# K-Means Clustering using Python from Scratch
+# k-means
+K-means clustering implementation from scratch.
 
-This repo is associated with [this](https://github.com/Lyallm1/K-Means)
+<img src='https://github.com/jg-fisher/k-means/blob/master/K-Means.png' />
